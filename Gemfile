@@ -5,5 +5,5 @@
 
 source "https://rubygems.org"
 
-gem "danger"
+gem "danger", ">= 8.0.0"
 gem "xcpretty"
